@@ -1,4 +1,4 @@
-Steps Covered-
+Steps involved-
 1. Requirement gathering from client
 2. Identifying the Stakeholders of the Project
 3. Data cleaning as per the requirement
