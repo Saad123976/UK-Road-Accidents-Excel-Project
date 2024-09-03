@@ -1,4 +1,4 @@
-**UK Road Accident Data Analysis Project: Excel Report**
+**UK Road Accident Data Analysis Project**
 
 **Introduction**
 
